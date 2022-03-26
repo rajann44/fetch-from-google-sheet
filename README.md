@@ -1,4 +1,4 @@
-## Fetch Data for your code using google sheet:
+## Fetch Data using google sheet:
 
 #### NEED JAVA 11+
 
